@@ -171,12 +171,12 @@ const HeroSection = () => {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-               <button className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300 flex items-center justify-center gap-2 group">
+               <a href= "#programs" className="bg-green-600 hover:bg-green-700 text-white px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300 flex items-center justify-center gap-2 group">
                 Explore Options <ChevronRight className="h-5 w-5 group-hover:translate-x-1 transition-transform" />
-              </button>
-              <button className="bg-transparent hover:bg-white/10 border-2 border-white text-white px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300 flex items-center justify-center">
+              </a>
+              <a href= "#contact" className="bg-transparent hover:bg-white/10 border-2 border-white text-white px-8 py-3 rounded-full text-lg font-semibold transition-all duration-300 flex items-center justify-center">
                 Learn More
-              </button>
+              </a>
             </div>
 
             <div className="flex flex-wrap gap-6 pt-4">

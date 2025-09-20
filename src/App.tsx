@@ -38,8 +38,6 @@ function App() {
       <Hero />
       <About />
       <Programs />
-      <Impact />
-      <Resources />
       <Contact />
       <Footer />
     </div>
