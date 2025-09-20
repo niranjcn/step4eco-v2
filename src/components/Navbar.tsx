@@ -73,7 +73,7 @@ const FloatingNavbar: React.FC = () => {
               href="#contact"
               className="hidden md:block bg-green-600 hover:bg-green-700 text-white px-5 py-2 rounded-full transition-colors duration-300 text-base font-semibold"
             >
-              Contact Us
+              Join Us
             </a>
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -110,7 +110,7 @@ const FloatingNavbar: React.FC = () => {
                 href="#contact"
                 className="bg-green-600 hover:bg-green-700 text-white w-full block text-center px-4 py-3 rounded-lg font-semibold transition-colors duration-300 text-base"
               >
-                Contact Us
+                Join Us
               </a>
             </div>
           </div>
