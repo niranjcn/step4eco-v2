@@ -1,9 +1,8 @@
 import React, { useState } from "react";
 import { ChevronRight, CheckCircle, RotateCcw } from "lucide-react";
-
+import forest from '../assets/forest.jpeg';
 // Using the background image from the original Hero file.
-const ecoHomeHero = "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2";
-
+const ecoHomeHero = forest;
 const HeroSection = () => {
   // --- State from EligibilityChecker ---
   const [step, setStep] = useState(1);

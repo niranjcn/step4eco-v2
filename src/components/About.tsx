@@ -56,16 +56,13 @@ const About: React.FC = () => {
           <div className="order-2 md:order-1">
             <h3 className="text-2xl font-bold text-gray-800 mb-6">Our Story</h3>
             <p className="text-gray-600 mb-4">
-              Founded in 2020, Step4Eco began as a grassroots movement of environmental enthusiasts 
-              who shared a common vision: to create a sustainable and healthy planet for all.
-            </p>
-            <p className="text-gray-600 mb-4">
-              What started as local community clean-ups and awareness campaigns has grown into a 
-              global network of change-makers implementing innovative solutions to environmental challenges.
-            </p>
-            <p className="text-gray-600">
-              Today, we work with communities, organizations, and governments worldwide to drive 
-              positive environmental change through education, advocacy, and direct action.
+              At Step4Eco, we’re passionate about creating warmer, greener homes across North Wales. As a trusted provider under the UK Government’s ECO4 scheme, we work closely with registered and accredited installers to deliver high-quality energy efficiency improvements to households.
+              <br/>
+              <br/>
+               Our goal is simple: to help families reduce their energy bills while cutting carbon emissions. Through the ECO4 scheme, eligible homeowners and tenants can access free or heavily subsidised upgrades, including insulation, heat pumps, solar panels, and other renewable technologies.
+              <br/>
+              <br/>
+               We take care of the entire process—from checking your eligibility to matching you with trusted local installers and ensuring all work meets the highest standards of compliance and quality. With Step4Eco, taking action for a sustainable future has never been easier. Together, we’re making homes across North Wales warmer, greener, and more energy-efficient—one step at a time. 🌍✨
             </p>
           </div>
           <div className="order-1 md:order-2 rounded-lg overflow-hidden shadow-xl">
