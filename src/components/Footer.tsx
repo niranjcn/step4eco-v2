@@ -62,23 +62,21 @@ const Footer: React.FC = () => {
             <h3 className="font-bold text-lg mb-6">Programs</h3>
             <ul className="space-y-3">
               <li>
-                <a href="#reforestation" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Reforestation</a>
+                <a href="#reforestation" className="text-gray-400 hover:text-green-500 transition-colors duration-300"></a>
               </li>
               <li>
-                <a href="#clean-water" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Clean Water</a>
+                <a href="#clean-water" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Solar Panel Systems</a>
               </li>
               <li>
-                <a href="#renewable-energy" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Renewable Energy</a>
+                <a href="#renewable-energy" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Wall Insulation</a>
               </li>
               <li>
-                <a href="#waste-reduction" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Waste Reduction</a>
+                <a href="#waste-reduction" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Heat Pumps</a>
               </li>
               <li>
-                <a href="#education" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Environmental Education</a>
+                <a href="#education" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Roof Insulation</a>
               </li>
-              <li>
-                <a href="#community" className="text-gray-400 hover:text-green-500 transition-colors duration-300">Community Initiatives</a>
-              </li>
+              
             </ul>
           </div>
           
@@ -86,19 +84,19 @@ const Footer: React.FC = () => {
             <h3 className="font-bold text-lg mb-6">Contact Us</h3>
             <ul className="space-y-3 text-gray-400">
               <li>
-                123 Green Street
+                15 Monks Walk 
               </li>
               <li>
-                Eco City, EC 12345
+                The Oval Westshore LL30 2BA
               </li>
               <li>
-                United States
+                United Kingdom
               </li>
               <li>
-                <a href="mailto:info@step4eco.org" className="hover:text-green-500 transition-colors duration-300">info@step4eco.org</a>
+                <a href="mailto:info.step4eco@gmail.com" className="hover:text-green-500 transition-colors duration-300">info.step4eco@gmail.com</a>
               </li>
               <li>
-                <a href="tel:+15551234567" className="hover:text-green-500 transition-colors duration-300">+1 (555) 123-4567</a>
+                <a href="tel:07554463387" className="hover:text-green-500 transition-colors duration-300">+44 7554 463387</a>
               </li>
             </ul>
           </div>

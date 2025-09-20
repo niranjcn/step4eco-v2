@@ -29,7 +29,7 @@ const Navbar: React.FC = () => {
         scrolled ? 'bg-white shadow-md py-2' : 'bg-transparent py-4'
       }`}
     >
-      <div className="px-12 container mx-auto px-4 flex justify-between items-center">
+      <div className="px-12 container mx-auto  flex justify-between items-center">
         <a href="#home" className="flex items-center space-x-2">
           <Leaf className={`h-6 w-6 ${scrolled ? 'text-green-600' : 'text-white'}`} />
           <span className={`font-bold text-xl ${scrolled ? 'text-green-600' : 'text-white'}`}>
