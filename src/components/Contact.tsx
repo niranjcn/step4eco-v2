@@ -190,25 +190,7 @@ const Contact: React.FC = () => {
               </div>
             </div>
             
-            <div className="mt-12">
-              <h3 className="text-2xl font-bold text-gray-800 mb-6">Join Our Newsletter</h3>
-              <p className="text-gray-600 mb-6">
-                Stay updated with our latest news, events, and initiatives by subscribing to our newsletter.
-              </p>
-              
-              <div className="flex">
-                <input 
-                  type="email" 
-                  className="flex-1 px-4 py-3 border border-gray-300 rounded-l-lg focus:outline-none focus:ring-2 focus:ring-green-600 focus:border-transparent"
-                  placeholder="Your email address"
-                />
-                <button 
-                  className="bg-green-600 hover:bg-green-700 text-white px-6 py-3 rounded-r-lg font-medium transition-colors duration-300"
-                >
-                  Subscribe
-                </button>
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
